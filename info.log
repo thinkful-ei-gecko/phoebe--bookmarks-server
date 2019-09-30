@@ -39,4 +39,4 @@
 {"message":"Invalid rating","level":"error"}
 {"message":"Bookmark with id cf716056-6550-43da-bbdb-ab3b62e92073 created","level":"info"}
 {"message":"Bookmark with id a20f5767-c447-4439-814e-145d839cfd4f deleted","level":"info"}
-{"message":"Bookmark with id 108efd08-40fa-401a-8c25-e60802fa679d created","level":"info"}
+{"message":"Bookmark with id 108efd08-40fa-401a-8c25-e60802fa679d created","level":"info"}{"message":"Unauthorized request to path: /bookmarks","level":"error"}
